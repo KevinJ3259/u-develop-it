@@ -1,7 +1,7 @@
 {
   "name": "u-develop-it",
   "version": "1.0.0",
-  "description": "",
+  "description": "Back-end APIs for a voting app.,",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/KevinJ3259/u-develop-it.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Kevin Jordan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KevinJ3259/u-develop-it/issues"
