@@ -2,10 +2,11 @@
   "name": "u-develop-it",
   "version": "1.0.0",
   "description": "Back-end APIs for a voting app.,",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "jest",
-    "start": "node server.js"
+    "start": "node server.js",
+    "schema": "mysql -u root -p < ./db/schema.sql"
   },
   "repository": {
     "type": "git",
